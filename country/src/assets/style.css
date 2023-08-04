@@ -1,0 +1,13 @@
+.link{
+    text-decoration: none;
+    color: green;
+    font-size: 1.5rem;
+}
+span{
+    font-size: 1.5rem;
+}
+.items{
+    margin-right: 5px;
+    text-decoration: underline;
+    color: green;
+}
